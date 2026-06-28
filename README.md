@@ -1,1 +1,1 @@
-# sensorNetsAndWearableDevices
+# thingy52-basketball-activity-recognition

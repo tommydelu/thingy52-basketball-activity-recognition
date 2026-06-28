@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .vscode/
 *.csv
+__init__.py
+.DS_Store
