@@ -11,7 +11,7 @@ It is provided with the Bluetooth protocol, allowing different devices to establ
 Each BLE service is represented by a name, a UUID, a type (explain what kind of operation you can perform on it such as read/write/notify), a number of bytes representing the data, and a description of its function. Below a simple example:
 
 
-![alt text](Isolated.png "Title")
+![alt-text](readme_pictures/uuid_table.png)
 
 
 more examples can be found here:
